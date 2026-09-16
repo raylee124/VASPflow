@@ -1,0 +1,4 @@
+interface:
+  display_name: "VASPFlow 工作流"
+  short_description: "配置可复用 SSH 连接，在 Linux 服务器生成 VASP 输入、管理作业和后处理"
+  default_prompt: "使用 $vaspflow 配置我的 Linux 服务器连接，复用已授权范围，完成 VASP 输入生成和后处理。"
